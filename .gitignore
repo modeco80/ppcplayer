@@ -1,0 +1,7 @@
+/.idea
+/cmake-build-*
+/build
+/buildrel
+/out
+/**/__pycache__
+*.iso

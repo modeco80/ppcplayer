@@ -1,0 +1,5 @@
+{
+    "cmake.configureArgs": [
+        "--toolchain ${workspaceFolder}/cmake/Toolchains/mingw-i686.cmake"
+    ]
+}
